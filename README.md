@@ -1,7 +1,7 @@
 # TerraformProject
 Hosting a static webpage on AWS
 
-Steps to use the IaC> 
+Steps to use the IaC: 
 
 1. Open PowerShell in admin mode.
 
